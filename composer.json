@@ -1,5 +1,5 @@
 {
-    "name": "chocopowwwa/gitlab",
+    "name": "vinkla/gitlab",
     "description": "A GitLab bridge for Laravel",
     "license": "MIT",
     "keywords": ["laravel", "gitlab", "git", "api"],
